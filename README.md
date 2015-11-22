@@ -1,6 +1,8 @@
 # Product Scraper
 Node.js based scraper for ecommerce sites
 
+![build](https://travis-ci.org/jonstuebe/product-scraper.svg?branch=master)
+
 ## Installation
 
 ```bash
