@@ -1,7 +1,7 @@
 # Product Scraper
 Node.js based scraper for ecommerce sites
 
-![build](https://travis-ci.org/jonstuebe/product-scraper.svg?branch=master)
+[![version](https://img.shields.io/npm/v/product-scraper.svg?style=flat-square)](https://www.npmjs.com/package/product-scraper)[![dependecies](https://david-dm.org/jonstuebe/product-scraper.svg)](https://www.npmjs.com/package/product-scraper)[![build](https://travis-ci.org/jonstuebe/product-scraper.svg?branch=master)](https://www.npmjs.com/package/product-scraper)
 
 ## Installation
 
