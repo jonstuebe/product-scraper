@@ -22,6 +22,7 @@
     "nodejs",
     "scraper"
   ],
+  "tonicExample": "tonic.js",
   "author": "Jon Stuebe <jstuebe@gmail.com>",
   "license": "MIT",
   "bugs": {
