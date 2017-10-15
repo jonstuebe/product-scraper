@@ -3,6 +3,9 @@ Node.js based scraper for ecommerce sites
 
 [![version](https://img.shields.io/npm/v/product-scraper.svg?style=flat-square)](https://www.npmjs.com/package/product-scraper)[![dependecies](https://david-dm.org/jonstuebe/product-scraper.svg)](https://www.npmjs.com/package/product-scraper)[![build](https://travis-ci.org/jonstuebe/product-scraper.svg?branch=master)](https://www.npmjs.com/package/product-scraper)
 
+# Deprecated
+**This repo is no longer being updated. I've made a new generalized site scraper that is not specific to ecommerce sites. Please refer to this new project: [new site](https://github.com/jonstuebe/scraper)**
+
 ## Installation
 
 ```bash
